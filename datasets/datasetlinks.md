@@ -20,4 +20,9 @@ Here is a dataset used in this paper and its reference link
 | 13 | Breast Cancer Wisconsin (Diagnostic)|    [link](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) |
 | 14 | White Wine|    [link](https://archive.ics.uci.edu/dataset/186/wine+quality) |
 | 15 | Student|    [link](https://archive-beta.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success) |
+| 16 | Glass|    [link](https://sci2s.ugr.es/keel/dataset.php?cod=143) |
+| 17 | Vowel|    [link](https://sci2s.ugr.es/keel/dataset.php?cod=127) |
+| 18 | Vehicle|    [link](https://sci2s.ugr.es/keel/dataset.php?cod=150) |
+| 19 | QSAR|    [link](https://archive.ics.uci.edu/dataset/254/qsar+biodegradation) |
+| 20 | Covertype|    [link](https://archive.ics.uci.edu/dataset/31/covertype) |
 
